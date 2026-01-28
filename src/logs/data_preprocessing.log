@@ -1,0 +1,11 @@
+2026-01-28 23:50:47,906 - data_preprocessing - ERROR - File not found: [Errno 2] No such file or directory: './data/raw/train.csv'
+2026-01-28 23:51:57,502 - data_preprocessing - DEBUG - Data loaded properly
+2026-01-28 23:51:57,502 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-01-28 23:51:57,525 - data_preprocessing - DEBUG - Target column encoded
+2026-01-28 23:51:57,535 - data_preprocessing - DEBUG - Duplicates removed
+2026-01-28 23:52:05,289 - data_preprocessing - DEBUG - Text column transformed
+2026-01-28 23:52:05,289 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-01-28 23:52:05,312 - data_preprocessing - DEBUG - Target column encoded
+2026-01-28 23:52:05,315 - data_preprocessing - DEBUG - Duplicates removed
+2026-01-28 23:52:07,243 - data_preprocessing - DEBUG - Text column transformed
+2026-01-28 23:52:07,276 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
